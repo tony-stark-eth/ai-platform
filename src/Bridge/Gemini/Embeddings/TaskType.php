@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\AI\Platform\Bridge\Google\Embeddings;
+namespace Symfony\AI\Platform\Bridge\Gemini\Embeddings;
 
 enum TaskType: string
 {
