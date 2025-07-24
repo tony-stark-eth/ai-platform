@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\AI\Platform\Bridge\Google\Gemini;
+namespace Symfony\AI\Platform\Bridge\Gemini\Gemini;
 
-use Symfony\AI\Platform\Bridge\Google\Gemini;
+use Symfony\AI\Platform\Bridge\Gemini\Gemini;
 use Symfony\AI\Platform\Model;
 use Symfony\AI\Platform\ModelClientInterface;
 use Symfony\AI\Platform\Result\RawHttpResult;

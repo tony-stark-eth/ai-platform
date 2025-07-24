@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\AI\Platform\Bridge\Google\Embeddings;
+namespace Symfony\AI\Platform\Bridge\Gemini\Embeddings;
 
-use Symfony\AI\Platform\Bridge\Google\Embeddings;
+use Symfony\AI\Platform\Bridge\Gemini\Embeddings;
 use Symfony\AI\Platform\Model;
 use Symfony\AI\Platform\ModelClientInterface;
 use Symfony\AI\Platform\Result\RawHttpResult;

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\AI\Platform\Bridge\Google;
+namespace Symfony\AI\Platform\Bridge\Gemini;
 
 use Symfony\AI\Platform\Capability;
 use Symfony\AI\Platform\Model;

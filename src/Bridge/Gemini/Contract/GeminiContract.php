@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\AI\Platform\Bridge\Google\Contract;
+namespace Symfony\AI\Platform\Bridge\Gemini\Contract;
 
 use Symfony\AI\Platform\Contract;
 use Symfony\Component\Serializer\Normalizer\NormalizerInterface;
@@ -17,7 +17,7 @@ use Symfony\Component\Serializer\Normalizer\NormalizerInterface;
 /**
  * @author Denis Zunke <denis.zunke@gmail.com>
  */
-final readonly class GoogleContract extends Contract
+final readonly class GeminiContract extends Contract
 {
     public static function create(NormalizerInterface ...$normalizer): Contract
     {
