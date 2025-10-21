@@ -41,7 +41,7 @@
         }
     ],
     "require": {
-        "php": ">=8.2",
+        "php": ">=8.1",
         "ext-fileinfo": "*",
         "oskarstark/enum-helper": "^1.5",
         "phpdocumentor/reflection-docblock": "^5.4",
